@@ -2,7 +2,7 @@
 
 This is my UI Portfolio, I created UI Components using React Js, Tailwindcss and Storybook.
 I didn't prepare the UI design, I just randomly follow my feeling and instinct to create it.
-You can see, UI Components I Already created from my [Storybook Demo](https://github.com/facebook/create-react-app).
+You can see, UI Components I Already created from my [Storybook Demo](https://6313446df4adf0cf3ca45868-xkzdzrphht.chromatic.com/).
 
 I am open for any critics or suggestion for about anything in this project. Feel free to reach me out.
 
